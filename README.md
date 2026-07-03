@@ -6,7 +6,7 @@ A responsive StudySync landing page built using **HTML** and **CSS**. This proje
 
 Click here to view the project:
 
-👉 [StudySync Live Demo](https://your-vercel-link.vercel.app)
+👉 [StudySync Live Demo](study-sync-six-eosin.vercel.app)
 
 ## 🚀 Features
 
