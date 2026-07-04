@@ -10,7 +10,6 @@ A responsive StudySync landing page built using **HTML** and **CSS**. This proje
 
 ## 🚀 Features
 
-- Responsive Landing Page
 - Clean and Modern UI
 - Hero Section
 - Navigation Bar
