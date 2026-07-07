@@ -31,4 +31,4 @@ A responsive StudySync landing page built using **HTML** and **CSS**. This proje
 
 ## 👩‍💻 Author
 
-Lavi Chauhan
+**Lavi Chauhan**
